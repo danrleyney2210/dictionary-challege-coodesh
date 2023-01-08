@@ -1,13 +1,14 @@
 export default {
   colors: {
     blue: {
-      "500": "#4070F4",
+      "500": "#176ae6",
     },
     yellow: {
       "500": "#FFD74F ",
     },
     white: {
       "500": "#ffffff",
+      "600": "#f6f6f6",
       "900": "#E5E5E5",
     },
     black: {
